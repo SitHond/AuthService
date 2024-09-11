@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService", "AuthService\AuthService.csproj", "{36BAE668-71C5-46DE-8A02-F0AABB93EA46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbMal", "dbMal\dbMal.csproj", "{9824731E-88C2-4202-B98E-67BBFDB0FA6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{36BAE668-71C5-46DE-8A02-F0AABB93EA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36BAE668-71C5-46DE-8A02-F0AABB93EA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36BAE668-71C5-46DE-8A02-F0AABB93EA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9824731E-88C2-4202-B98E-67BBFDB0FA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9824731E-88C2-4202-B98E-67BBFDB0FA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9824731E-88C2-4202-B98E-67BBFDB0FA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9824731E-88C2-4202-B98E-67BBFDB0FA6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
